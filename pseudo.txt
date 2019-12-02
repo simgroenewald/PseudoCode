@@ -1,0 +1,42 @@
+Algorithm 1
+Start
+		prompt user to enter value
+		store value
+	repeat until value inputted = 0
+	
+	arrange values stored in descending order
+	print last value
+End
+
+Algorithm 2
+Start
+	Add integers
+	Store value named total
+	Count integers
+	Store value named amount
+	Total/Amount
+	Print Answer
+End
+
+Algorithm 3
+Start
+	Get list
+		Read list
+		If item has been bought then delete
+	Repeat until last item on list is reached
+	Sort List alphabetically
+	Return list
+End
+
+Start
+	Read X
+	Read Y
+	Add X and Y and store it as S
+	Divide S by 2 and store it as A
+	Multiply X and Y and store it as P
+	Print S, A, P
+Ende
+	
+ 	
+
+
